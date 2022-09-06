@@ -1,0 +1,24 @@
+{
+	"name": "blustream-hdmimatrix",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [ "HDMI Matrix" ],
+	"manufacturer": "BLUSTREAM",
+	"product": "BLUSTREAM-MATRIX",
+	"shortname": "BLUSTREAM-MATRIX",
+	"description": "BLUSTREAM HDMI MATRIX SWITCH 4x4",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-blustream-hdmimatrix.git"
+	},
+	"author": "James Rankin <james@rankinfamily.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-blustream-hdmimatrix/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-blustream-hdmimatrix#readme"
+}
